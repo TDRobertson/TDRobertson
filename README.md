@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Thomas Robertson, and I am a active student at Tennessee Technological University, undergoing the College of Engineering Computer Science Data Analystics track as my second undergraduate degree. My first degree was a Bachelors of Science in Biochemistry from Tennessee Technological University.
 
 <!--
 **TDRobertson/TDRobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
