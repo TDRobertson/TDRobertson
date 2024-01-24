@@ -1,6 +1,5 @@
-### Hi there 👋
-My name is Thomas Robertson, and I am a active student at Tennessee Technological University, undergoing the College of Engineering Computer Science Data Analystics track as my second undergraduate degree. My first degree was a Bachelors of Science in Biochemistry from Tennessee Technological University.
-
+# My name is Thomas Robertson and I am an aspiring software developer with prior experience in the medical field. 
+## I am currently attending Tennessee Technological University to obtain my second Bachelor's degree in Computer Science with an emphasis on Data analytics and Artificial Intelligence. My goal is to develop the professional skills needed to adapt to any situation necessary of me for my future career. In my downtime I study Game Development methods and tools as a hobby.
 <!--
 **TDRobertson/TDRobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
