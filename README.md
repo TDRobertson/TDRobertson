@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/TDRobertson" width="120" height="120" style="border-radius:50%"><br>
   <strong>Thomas D. Robertson II</strong><br>
   <em>Software Engineer | Data Scientist | Cybersecurity Enthusiast</em><br>
-  <a href="mailto:thomastdr42@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/thomas-d-robertson">LinkedIn</a> • 
   <a href="https://github.com/TDRobertson">GitHub</a> • 
   <!-- <a href="https://your-portfolio-site.com">Portfolio</a> -->
