@@ -85,7 +85,8 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 <summary>Expand GitHub activity</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TDRobertson&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TDRobertson" />
 </p>
 
