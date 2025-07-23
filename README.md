@@ -23,23 +23,17 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 ### 🧠 Featured Projects
 
+#### 🥖⚙️[Micro Bakery Application](https://simplebakerydev.duckdns.org/)
+> Web application for tracking and handling business needs of a Micro Bakery. Includes customer frontend and locked backend integrations for stat tracking and business operations.
+
 #### 🔎 [Disaster Tweet Classifier](https://github.com/CSC-4260-Advanced-Data-Science-Project/NLP_Disaster_Tweets)
 > NLP classification of real vs. non-real disaster tweets using TF-IDF + Passive Aggressive model with 75%+ F1 score.
 
-#### 🛰️ MITRE eCTF Secure Satellite TV System *(Private Organization Repo)*
-> Blue team decoder design with HMAC-authenticated frames, WolfSSL encryption, and hardware attacks in red team phase. Project details available on request.
+#### 🧠 [Student Behavioral Disruption Predictor](https://github.com/TDRobertson/student-referral-predictor)
+> Data mining project for identifying and forecasting weekly school referrals. Combines student conduct data, family engagement, and weather conditions using MLP and Random Forest classifiers.
 
 #### 🚗 [GPS Spoofing AV Defense Research](https://github.com/TDRobertson/carla-autonomous-vehicle-scripts)
 > Sensor fusion & spoofing-resilient GPS navigation in CARLA with ROS2. Submitted to 68th IEEE MWSCAS.
-
-#### 🌐 Field Missions Volunteer Platform *(Private Organization Repo)*
-> Capstone project with GCP deployment, Node.js/MariaDB backend, role-based access control, and CI/CD via GitHub Actions. Discussable on request.
-
-#### 🤝 [Bridge of Aspirations](https://github.com/TDRobertson/bridge-of-aspirations) *(Private)*
-> Early-phase software solution for charitable case management and need-tracking.
-
-#### 🧠 [Student Behavioral Disruption Predictor](https://github.com/TDRobertson/student-referral-predictor)
-> Data mining project for identifying and forecasting weekly school referrals. Combines student conduct data, family engagement, and weather conditions using MLP and Random Forest classifiers.
 
 #### 🩺 [Diabetes Patient Prediction](https://github.com/TDRobertson/Diabetes-Patient-Prediction)
 > Classifier performance analysis on Kaggle’s diabetes dataset. Compared Logistic Regression, SVM, Decision Tree models across various imputation and clustering strategies.
@@ -47,6 +41,14 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 #### 🕹️ [Asteroids Remake (Asteroids)](https://github.com/TDRobertson/asteroids)
 > Classic Asteroids arcade game remake in Python with Pygame. Lumpy asteroids, polygon collision, sound, and automated downloadable builds for Windows, Linux, and macOS.
 
+#### 🌐 Field Missions Volunteer Platform *(Private Organization Repo)*
+> Capstone project with GCP deployment, Node.js/MariaDB backend, role-based access control, and CI/CD via GitHub Actions. Discussable on request.
+
+#### 🛰️ MITRE eCTF Secure Satellite TV System *(Private Organization Repo)*
+> Blue team decoder design with HMAC-authenticated frames, WolfSSL encryption, and hardware attacks in red team phase. Project details available on request.
+
+#### 🤝 [Bridge of Aspirations] *(Private)*
+> Early-phase software solution for charitable case management and need-tracking.
 ---
 
 ### 📊 Skills at a Glance
