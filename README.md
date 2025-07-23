@@ -79,7 +79,7 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <details>
 <summary>Expand GitHub activity</summary>
@@ -91,3 +91,4 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 </p>
 
 </details>
+-->
