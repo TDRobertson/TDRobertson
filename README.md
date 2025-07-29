@@ -78,6 +78,8 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 
 ---
+### Boot.dev bootcamp information Typescript and Go Backend Pathway
+https://www.boot.dev/u/byte 
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/a986788c-5903-4e49-b387-ab2fc7c6034a/thumbnail" >
