@@ -22,6 +22,8 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 ---
 
 ### 🧠 Featured Projects
+#### 🩺🧠 [Machine Learning Projects](https://github.com/TDRobertson/Machine-Learning-Projects)
+> This repository showcase a continuously updated selection of machine learning projects to demonstrate understanding and mastery of different Machine Learning concepts. Each project applies theoretical knowledge and practical application scenarios. Showcasing proficiency in relevent techniques and tools. 
 
 #### 🥖⚙️[Micro Bakery Application](https://simplebakerydev.duckdns.org/)
 > Web application for tracking and handling business needs of a Micro Bakery. Includes customer frontend and locked backend integrations for stat tracking and business operations.
