@@ -49,7 +49,7 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 #### 🛰️ MITRE eCTF Secure Satellite TV System *(Private Organization Repo)*
 > Blue team decoder design with HMAC-authenticated frames, WolfSSL encryption, and hardware attacks in red team phase. Project details available on request.
 
-#### 🤝 [Bridge of Aspirations] *(Private)*
+#### 🤝 [Bridge of Aspirations](https://www.bridgeofaspirations.org/)
 > Early-phase software solution for charitable case management and need-tracking.
 ---
 
