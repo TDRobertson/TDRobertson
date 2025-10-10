@@ -23,7 +23,10 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 ### 🧠 Featured Projects
 #### 🩺🧠 [Machine Learning Projects](https://github.com/TDRobertson/Machine-Learning-Projects)
-> This repository showcase a continuously updated selection of machine learning projects to demonstrate understanding and mastery of different Machine Learning concepts. Each project applies theoretical knowledge and practical application scenarios. Showcasing proficiency in relevent techniques and tools. 
+> This repository showcase a continuously updated selection of machine learning projects to demonstrate understanding and mastery of different Machine Learning concepts. Each project applies theoretical knowledge and practical application scenarios. Showcasing proficiency in relevent techniques and tools.
+
+#### 🤝 [Bridge of Aspirations](https://www.bridgeofaspirations.org/)
+> Early-phase software solution for charitable case management and need-tracking.
 
 #### 🥖⚙️[Micro Bakery Application](https://simplebakerydev.duckdns.org/)
 > Web application for tracking and handling business needs of a Micro Bakery. Includes customer frontend and locked backend integrations for stat tracking and business operations. (Runs on a spot instance and database for info/products may not always be available, in the process of migrating to a permanenet server)
@@ -49,8 +52,6 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 #### 🛰️ MITRE eCTF Secure Satellite TV System *(Private Organization Repo)*
 > Blue team decoder design with HMAC-authenticated frames, WolfSSL encryption, and hardware attacks in red team phase. Project details available on request.
 
-#### 🤝 [Bridge of Aspirations](https://www.bridgeofaspirations.org/)
-> Early-phase software solution for charitable case management and need-tracking.
 ---
 
 ### 📊 Skills at a Glance
@@ -76,7 +77,7 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 ### 🧾 Recent Publications
 
-- 🛰 *Realistic GPS Spoofing via Customized CARLA Navigation*, IEEE MWSCAS 2025 (Submitted)  
+- 🛰 *Realistic GPS Spoofing via Customized CARLA Navigation*, IEEE MWSCAS 2025  
 
 
 ---
