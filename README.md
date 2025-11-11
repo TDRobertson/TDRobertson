@@ -25,6 +25,9 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 #### 🩺🧠 [Machine Learning Projects](https://github.com/TDRobertson/Machine-Learning-Projects)
 > This repository showcase a continuously updated selection of machine learning projects to demonstrate understanding and mastery of different Machine Learning concepts. Each project applies theoretical knowledge and practical application scenarios. Showcasing proficiency in relevent techniques and tools.
 
+#### 🌐 [Field Missions Volunteer Web Portal](https://fieldmissions.org) *(Private Organization Repo)*
+> Capstone project with GCP deployment, Node.js/MariaDB backend, role-based access control, and CI/CD via GitHub Actions. Discussable on request.
+
 #### 🤝 [Bridge of Aspirations](https://www.bridgeofaspirations.org/)
 > Early-phase software solution for charitable case management and need-tracking.
 
@@ -45,9 +48,6 @@ I’m currently conducting DoD-funded research on autonomous vehicle navigation 
 
 #### 🕹️ [Asteroids Remake (Asteroids)](https://github.com/TDRobertson/asteroids)
 > Classic Asteroids arcade game remake in Python with Pygame. Lumpy asteroids, polygon collision, sound, and automated downloadable builds for Windows, Linux, and macOS.
-
-#### 🌐 [Field Missions Volunteer Web Portal](https://fieldmissions.swollenhippo.com/home.html) *(Private Organization Repo)*
-> Capstone project with GCP deployment, Node.js/MariaDB backend, role-based access control, and CI/CD via GitHub Actions. Discussable on request.
 
 #### 🛰️ MITRE eCTF Secure Satellite TV System *(Private Organization Repo)*
 > Blue team decoder design with HMAC-authenticated frames, WolfSSL encryption, and hardware attacks in red team phase. Project details available on request.
