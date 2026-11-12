@@ -1,113 +1,110 @@
-## Hi, I'm Thomas.
+<p align="center">
+  <strong>Thomas D. Robertson II</strong><br>
+  <em>AI Systems Engineer | Cloud & Security | Machine Learning Researcher</em><br>
+  <a href="https://www.linkedin.com/in/thomas-d-robertson">LinkedIn</a> · 
+  <a href="https://github.com/TDRobertson">GitHub</a> · 
+  <a href="https://ieeexplore.ieee.org/document/11244479">IEEE Publication</a>
+</p>
 
-I build software where enterprise systems, machine learning, and security overlap.
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>IEEE</b><br><sub>first-author paper</sub></td>
+    <td align="center"><b>$2.1M</b><br><sub>NIST grant co-written</sub></td>
+    <td align="center"><b>1st Place</b><br><sub>industry hackathon</sub></td>
+    <td align="center"><b>M.S. CS + MBA</b><br><sub>finishing 2027</sub></td>
+  </tr>
+</table>
+</div>
 
-Day to day, I'm a middleware application analyst on contract with Dollar General through Beacon Hill. Most of that work is the plumbing that keeps a large organization running: workflows, integrations, and the access puzzles that appear when thousands of people share one platform. Outside of work, I'm finishing an M.S. in Computer Science focused on AI and machine learning, along with an MBA at Tennessee Tech.
+### About me
 
-I didn't start in software. My first degree was in biochemistry, and I spent several years as a hospital pharmacy technician before going back for computer science. Since then I've first-authored an IEEE paper on fooling autonomous vehicles with spoofed GPS, led a team to first place at an industry hackathon, and helped write a $2.1M NIST grant for a regional quantum network. The common thread is that I like messy, real-world systems and figuring out why they behave the way they do.
+**I build where enterprise systems, machine learning, and security overlap.**
 
-[LinkedIn](https://www.linkedin.com/in/thomas-d-robertson) · [IEEE paper](https://ieeexplore.ieee.org/document/11244479) · [Boot.dev](https://www.boot.dev/u/byte)
+Day to day, I'm a middleware application analyst on contract with Dollar General. Most of that work is the plumbing that keeps a large organization running: workflows, integrations, and the access puzzles that come up when thousands of people share one platform. Outside of work, I'm finishing an M.S. in Computer Science (AI/ML) and an MBA at Tennessee Tech.
 
----
+I took the long way here. I started in biochemistry and spent years as a hospital pharmacy technician before switching to computer science. Since then I've first-authored an IEEE paper on GPS spoofing attacks, led a team to first place at an industry hackathon, and helped win a $2.1M NIST grant for a regional quantum network. What ties it together is that I like messy, real-world systems and figuring out why they behave the way they do.
 
-### What I'm working on now
+### Right now
 
-**Enterprise workflows at Dollar General** *(contract, via Beacon Hill)*  
-I build, configure, and troubleshoot enterprise ServiceNow workflows and the integrations around them. That means automating how work moves between teams, tracking down access and permission issues, following data through integrations and logs, and validating changes before they reach production. I also support cross-team work on cloud-cost visibility and FinOps automation.
+- **Enterprise systems.** I build, configure, and troubleshoot ServiceNow workflows and integrations, and I support FinOps automation work.
+- **Cherokee–English machine translation.** My master's research applies NLP to an endangered, low-resource language for language preservation. The repo is private for now.
+- **Quantum network planning.** I'm project manager on Tennessee Tech's NIST-funded Cookeville–Crossville quantum testbed.
+- **Certifications.** PSM I (Dec 2026), then PMP and CCNA.
 
-**Cherokee–English machine translation** *(Master's research, private repo)*  
-Cherokee is an endangered, low-resource language, so there isn't much clean, aligned data to learn from. I'm researching NLP and machine-translation methods for Cherokee and standardizing scattered, non-aligned sources into a usable pipeline for training and evaluation. The goal is to support language-preservation work.
+### Stack
 
-**Quantum network planning** *(Tennessee Center for Rural Innovation)*  
-As project manager, I co-wrote the funded $2.1M NIST proposal for Tennessee Tech's Cookeville–Crossville quantum testbed. I built its cost projections and network-route analysis, and I'm developing workforce competency frameworks for quantum and cybersecurity roles.
-
-**Certifications in progress:** Professional Scrum Master I (Dec 2026), PMP, and CCNA.
-
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK"><br>
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square" alt="ServiceNow"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/OCI-C74634?style=flat-square" alt="OCI"><br>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"><br>
+</p>
 
 ### Selected work
 
-**[GPS Spoofing Defense for Autonomous Vehicles](https://github.com/TDRobertson/carla-autonomous-vehicle-scripts)**  
-Autonomous-vehicle security research in CARLA covering GPS spoofing simulation, GPS/IMU sensor fusion, machine-learning-based anomaly detection, and GPS-based PID navigation. Published as a first-author paper at IEEE MWSCAS 2025.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/TDRobertson/carla-autonomous-vehicle-scripts">GPS Spoofing Defense</a></b><br>
+      <sub>IEEE MWSCAS 2025 · first author</sub><br><br>
+      Autonomous-vehicle security research in CARLA: spoofing simulation, GPS/IMU sensor fusion, ML-based anomaly detection, and PID navigation.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/TDRobertson/Portebello-Hackathaon-2025-Optimization">Pallet Optimization</a></b><br>
+      <sub>1st place · Portobello America Hackathon 2025</sub><br><br>
+      My four-person team automated pallet assembly for a tile manufacturer in 30 hours, using Monte Carlo Tree Search packing and a Python GUI fed by Oracle order data.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://fieldmissions.org">Field Missions Volunteer Portal</a></b><br>
+      <sub>Capstone · team lead & Scrum Master · private repo</sub><br><br>
+      A volunteer portal for a healthcare nonprofit, built with Node.js and MariaDB, featuring role-based access and CI/CD to Google Cloud via GitHub Actions.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/CSC-4260-Advanced-Data-Science-Project/NLP_Disaster_Tweets">Disaster Tweet Classifier</a></b><br>
+      <sub>NLP · HPC</sub><br><br>
+      Six classifiers across 30 preprocessing variants (180+ runs) on a SLURM cluster. The best model, a Passive Aggressive classifier, reached about 0.859 ROC-AUC.
+    </td>
+  </tr>
+</table>
 
-**[Pallet Optimization](https://github.com/TDRobertson/Portebello-Hackathaon-2025-Optimization)** · *1st Place, Portobello America Hackathon 2025*  
-In 30 hours, my four-person team automated pallet assembly for a tile manufacturer. We built Monte Carlo Tree Search packing algorithms and a Python GUI fed by Oracle order data, and won Best Technological Innovation & Creativity.
-
-**[Field Missions Volunteer Portal](https://fieldmissions.org)** · *private org repo*  
-For my capstone, I served as full-stack developer and Scrum Master for a five-person team building a volunteer portal for a healthcare nonprofit. The stack is Node.js REST services on MariaDB with bcrypt authentication, role-based access control, and CI/CD to Google Cloud through GitHub Actions. Happy to walk through it on request.
-
-**[Disaster Tweet Classifier](https://github.com/CSC-4260-Advanced-Data-Science-Project/NLP_Disaster_Tweets)**  
-I built the core pipeline, which tested six classifiers across 30 preprocessing variants of 7,613 tweets (180+ runs), and wrote the GridSearchCV tuning module and SLURM jobs for HPC. The best model, a Passive Aggressive classifier, reached about 0.859 ROC-AUC.
-
-**[Diabetes Risk Prediction](https://github.com/TDRobertson/Diabetes-Patient-Prediction)**  
-A classification project on the Pima Indians Diabetes dataset that compares imputation strategies (including MICE) against LASSO-regularized logistic regression, SVM, and decision trees.
-
-**[Student Behavioral Disruption Predictor](https://github.com/TDRobertson/student-referral-predictor)**  
-Forecasts weekly school referrals by combining student conduct data, family engagement, and weather, using MLP and Random Forest classifiers.
-
-**MITRE eCTF 2025** · *private org repo*  
-Designed and attacked secure embedded systems in MITRE's collegiate embedded capture-the-flag competition.
+**Also:** [Diabetes Risk Prediction](https://github.com/TDRobertson/Diabetes-Patient-Prediction) (imputation and model comparison on the Pima dataset) · [Student Behavior Predictor](https://github.com/TDRobertson/student-referral-predictor) (forecasting school referrals with MLP and Random Forest) · MITRE eCTF 2025 competitor (secure embedded systems, private repo)
 
 <details>
 <summary><b>Smaller projects</b></summary>
 <br>
 
-**[Machine Learning Projects](https://github.com/TDRobertson/Machine-Learning-Projects)**: a running collection of ML experiments, each pairing theory with a practical application.
-
-**[Micro Bakery App](https://simplebakerydev.duckdns.org/)**: storefront plus a locked-down operations backend for a micro bakery. *(Runs on a spot instance while it moves to a permanent server, so it may be offline.)*
-
-**[Bridge of Aspirations](https://www.bridgeofaspirations.org/)**: early-phase case management and need tracking for a charity.
-
-**[Asteroids](https://github.com/TDRobertson/asteroids)**: the arcade classic in Python/Pygame, with lumpy asteroids, polygon collision, and automated builds for Windows, Linux, and macOS.
+- [Machine Learning Projects](https://github.com/TDRobertson/Machine-Learning-Projects): a running collection of ML experiments
+- [Micro Bakery App](https://simplebakerydev.duckdns.org/): storefront and operations backend for a micro bakery *(may be offline while it moves to a permanent server)*
+- [Bridge of Aspirations](https://www.bridgeofaspirations.org/): early-phase case management for a charity
+- [Asteroids](https://github.com/TDRobertson/asteroids): the arcade classic in Pygame, with automated cross-platform builds
 
 </details>
 
----
+### Background
 
-### Toolbox
+**Publications**
+- Robertson, T. D., II. "Realistic GPS Spoofing via Customized CARLA GPS Navigation and Controller Systems." *IEEE MWSCAS*, 2025. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11244479)
+- Robertson, T., II. "Quinidine and Quinine Based Double Salt Ionic Liquids." *Proc. Student Research and Creative Inquiry Day*, Tennessee Tech, 2020.
 
-- **Languages:** Python, R, SQL, JavaScript, C++, Bash, x86/ARM assembly
-- **ML & data:** PyTorch, scikit-learn, NLTK, BERT, LLMs and agentic systems
-- **Platforms:** ServiceNow, GCP, Azure, OCI, AWS, Linux, HPC (SLURM)
-- **Web & DevOps:** Node.js, Express, MariaDB, Docker, GitHub Actions, Ansible
-- **Research tools:** CARLA, ROS2
-
----
-
-### Publications
-
-- **Robertson, T. D., II.** "Realistic GPS Spoofing via Customized CARLA GPS Navigation and Controller Systems." *IEEE 68th International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11244479)
-- **Robertson, T., II.** "Quinidine and Quinine Based Double Salt Ionic Liquids." *Proceedings of Student Research and Creative Inquiry Day*, Tennessee Tech, Vol. 4, 2020.
-
----
-
-### Education
-
-**Tennessee Tech University**
-- M.S. Computer Science, Artificial Intelligence & Machine Learning (expected May 2027)
-- MBA, with graduate certificates in Health Care Informatics and Cybersecurity Management & Leadership (expected Dec 2027)
+**Education** (Tennessee Tech)
+- M.S. Computer Science, AI & Machine Learning (May 2027)
+- MBA, with certificates in Health Care Informatics and Cybersecurity Management & Leadership (Dec 2027)
 - B.S. Computer Science, Data Science & AI and Cybersecurity (4.0 major GPA)
 - B.S. Chemistry, Biochemistry, *cum laude*
 
-### Around campus
+**On campus:** VP of the AI Club · Founder of the Societal Entrepreneurship Club · Interim CCDC Captain · Maverick Innovators Fellow · Phi Kappa Phi
 
-Vice President of the TTU AI Club · Founder & President of the Societal Entrepreneurship Club · Interim Captain of the CCDC team · Maverick Innovators Fellow (Clouse-Elrod Foundation) · Phi Kappa Phi · Kappa Mu Epsilon
-
----
-
+<br>
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/a986788c-5903-4e49-b387-ab2fc7c6034a/thumbnail" alt="Boot.dev progress: TypeScript & Go backend path">
 </p>
 
-<!-- ### GitHub Stats
-
-<details>
-<summary>Expand GitHub activity</summary>
-
+<!-- GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TDRobertson&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TDRobertson" />
 </p>
-
-</details>
 -->
