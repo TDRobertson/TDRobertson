@@ -17,7 +17,7 @@ I'm a dual-degree computer scientist and biochemist with a passion for engineeri
 - 🤖 Machine Learning & Data Mining (scikit-learn, BERT, TF-IDF, GridSearchCV)
 - ☁️ DevOps & Infrastructure Automation (Ansible, GitHub Actions, Docker)
 
-I’m currently conducting DoD-funded research on autonomous vehicle navigation security and leading DIGITHREADS LLC—my own consulting initiative for web and data projects.
+I’m currently building (as of November 2026) a Cherokee ASR/TTSR translator utilizing low-resource environments to help support language preservation.
 
 ---
 
