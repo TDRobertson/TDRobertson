@@ -2,7 +2,7 @@
 
 I build software where enterprise systems, machine learning, and security overlap.
 
-Day to day, I'm a middleware application analyst on contract with Dollar General through Beacon Hill. Most of that work is the plumbing that keeps a large organization running: ServiceNow workflows that pass cases between teams, integrations that move data where it needs to go, and the permission and routing puzzles that appear when thousands of people share one platform. Outside of work, I'm finishing an M.S. in Computer Science focused on AI and machine learning, along with an MBA at Tennessee Tech.
+Day to day, I'm a middleware application analyst on contract with Dollar General through Beacon Hill. Most of that work is the plumbing that keeps a large organization running: workflows, integrations, and the access puzzles that appear when thousands of people share one platform. Outside of work, I'm finishing an M.S. in Computer Science focused on AI and machine learning, along with an MBA at Tennessee Tech.
 
 I didn't start in software. My first degree was in biochemistry, and I spent several years as a hospital pharmacy technician before going back for computer science. Since then I've first-authored an IEEE paper on fooling autonomous vehicles with spoofed GPS, led a team to first place at an industry hackathon, and helped write a $2.1M NIST grant for a regional quantum network. The common thread is that I like messy, real-world systems and figuring out why they behave the way they do.
 
@@ -13,11 +13,7 @@ I didn't start in software. My first degree was in biochemistry, and I spent sev
 ### What I'm working on now
 
 **Enterprise workflows at Dollar General** *(contract, via Beacon Hill)*  
-I build and troubleshoot ServiceNow workflows for employee services and transportation operations. Recent work includes:
-- A case-handoff system that carries context and attachments into a linked case, writes the new case number back to the source, and prevents duplicate handoffs.
-- Tracing workspace search and access warnings through query permissions, role evaluation, and page routing, then documenting and verifying the fixes.
-- Investigating group provisioning, inbound email routing, and integration data flows, including ways to turn monitoring alerts into actionable incidents.
-- Supporting cross-team efforts on cloud-cost visibility and FinOps automation.
+I build, configure, and troubleshoot enterprise ServiceNow workflows and the integrations around them. That means automating how work moves between teams, tracking down access and permission issues, following data through integrations and logs, and validating changes before they reach production. I also support cross-team work on cloud-cost visibility and FinOps automation.
 
 **Cherokee–English machine translation** *(Master's research, private repo)*  
 Cherokee is an endangered, low-resource language, so there isn't much clean, aligned data to learn from. I'm researching NLP and machine-translation methods for Cherokee and standardizing scattered, non-aligned sources into a usable pipeline for training and evaluation. The goal is to support language-preservation work.
