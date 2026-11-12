@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thomas%20D.%20Robertson%20II&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Cloud%20%26%20Security%20%7C%20ML%20Researcher&descSize=16&descAlignY=58" alt="Thomas D. Robertson II" width="100%">
-</p>
+<h2 align="center">Thomas D. Robertson II</h2>
+<p align="center"><em>AI Systems Engineer | Cloud & Security | Machine Learning Researcher</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=620&lines=Enterprise+systems+%26+integrations;Machine+learning+%26+NLP;Security+research+%E2%86%92+IEEE+MWSCAS+2025;Cherokee%E2%80%93English+machine+translation" alt="What I work on">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FA7D6&center=true&vCenter=true&width=620&lines=Enterprise+systems+%26+integrations;Machine+learning+%26+NLP;Security+research+%E2%86%92+IEEE+MWSCAS+2025;Cherokee%E2%80%93English+machine+translation" alt="What I work on">
 </p>
 
 <p align="center">
@@ -107,9 +106,6 @@ I took the long way here. I started in biochemistry and spent years as a hospita
   <img src="https://api.boot.dev/v1/users/public/a986788c-5903-4e49-b387-ab2fc7c6034a/thumbnail" alt="Boot.dev progress: TypeScript & Go backend path">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="">
-</p>
 
 <!-- GitHub Stats
 <p align="center">
