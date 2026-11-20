@@ -33,7 +33,7 @@ I took the long way here. I started in biochemistry and spent years as a hospita
 
 - **Cherokee speech recognition and synthesis.** My master's research builds ASR and text-to-speech models for an endangered, low-resource language, to support language learning and preservation. The repo is private for now.
 - **Enterprise systems.** I build, configure, and troubleshoot ServiceNow workflows and integrations, and I support FinOps and AI enablement work.
-- **Quantum network planning.** I'm project manager on Tennessee Tech's NIST-funded Cookeville–Crossville quantum testbed.
+- **Tennessee Center for Rural Innovation.** I'm a project manager at Tennessee Tech's TCRI, working on regional emerging-technology projects. Earlier work there included co-writing the funded NIST proposal for the Cookeville–Crossville quantum testbed.
 - **Certifications.** PSM I (Dec 2026), then PMP and CCNA.
 
 ### Stack
