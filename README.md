@@ -1,8 +1,8 @@
 <h2 align="center">Thomas D. Robertson II</h2>
-<p align="center"><em>AI Systems Engineer | Cloud & Security | Machine Learning Researcher</em></p>
+<p align="center"><em>Machine Learning | Enterprise Systems | Security Research</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FA7D6&center=true&vCenter=true&width=620&lines=Enterprise+systems+%26+integrations;Machine+learning+%26+NLP;Security+research+%E2%86%92+IEEE+MWSCAS+2025;Cherokee%E2%80%93English+machine+translation" alt="What I work on">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FA7D6&center=true&vCenter=true&width=620&lines=Machine+learning+%26+speech+models;Enterprise+systems+%26+integrations;Security+research+%E2%86%92+IEEE+MWSCAS+2025;Cherokee+speech+recognition+%26+synthesis" alt="What I work on">
 </p>
 
 <p align="center">
@@ -23,16 +23,16 @@
 
 ### About me
 
-**I build where enterprise systems, machine learning, and security overlap.**
+**I build where machine learning, enterprise systems, and security overlap.**
 
-Day to day, I'm a middleware application analyst on contract with Dollar General. Most of that work is the plumbing that keeps a large organization running: workflows, integrations, and the access puzzles that come up when thousands of people share one platform. Outside of work, I'm finishing an M.S. in Computer Science (AI/ML) and an MBA at Tennessee Tech.
+Day to day, I'm a middleware application analyst on contract with a Fortune 100 retailer. I work on the workflows and integrations that keep a large organization running, along with cloud cost and AI enablement projects. Outside of work, I'm finishing an M.S. in Computer Science (AI/ML) and an MBA at Tennessee Tech.
 
 I took the long way here. I started in biochemistry and spent years as a hospital pharmacy technician before switching to computer science. Since then I've first-authored an IEEE paper on GPS spoofing attacks, led a team to first place at an industry hackathon, and helped win a $2.1M NIST grant for a regional quantum network. What ties it together is that I like messy, real-world systems and figuring out why they behave the way they do.
 
 ### Right now
 
-- **Enterprise systems.** I build, configure, and troubleshoot ServiceNow workflows and integrations, and I support FinOps automation work.
-- **Cherokee–English machine translation.** My master's research applies NLP to an endangered, low-resource language for language preservation. The repo is private for now.
+- **Cherokee speech recognition and synthesis.** My master's research builds ASR and text-to-speech models for an endangered, low-resource language, to support language learning and preservation. The repo is private for now.
+- **Enterprise systems.** I build, configure, and troubleshoot ServiceNow workflows and integrations, and I support FinOps and AI enablement work.
 - **Quantum network planning.** I'm project manager on Tennessee Tech's NIST-funded Cookeville–Crossville quantum testbed.
 - **Certifications.** PSM I (Dec 2026), then PMP and CCNA.
 
@@ -40,9 +40,9 @@ I took the long way here. I started in biochemistry and spent years as a hospita
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK"><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK"><br>
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square" alt="ServiceNow"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/OCI-C74634?style=flat-square" alt="OCI"><br>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"><br>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"><br>
 </p>
 
 ### Selected work
@@ -95,7 +95,7 @@ I took the long way here. I started in biochemistry and spent years as a hospita
 
 **Education** (Tennessee Tech)
 - M.S. Computer Science, AI & Machine Learning (May 2027)
-- MBA, with certificates in Health Care Informatics and Cybersecurity Management & Leadership (Dec 2027)
+- MBA, with graduate certificates in Healthcare Informatics and Cybersecurity Management & Analytics (Dec 2027)
 - B.S. Computer Science, Data Science & AI and Cybersecurity (4.0 major GPA)
 - B.S. Chemistry, Biochemistry, *cum laude*
 
